@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:id="@+id/frame"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_launcher_background"
+            android:adjustViewBounds="true"/>
+    </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:layout_below="@id/frame"
+            >
+
+            <Button
+                android:id="@+id/kotayogya"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Heritgae Kota Yogya"/>
+            <Button
+                android:id="@+id/sleman"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Heritage Sleman"/>
+            <Button
+                android:id="@+id/bantul"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Heritage Bantul"/>
+            <Button
+                android:id="@+id/gunungkidul"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Heritage Gunung Kidul"/>
+            <Button
+                android:id="@+id/kulonprogo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Heritage Kulon Progo"/>
+        </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,425 @@
+<resources>
+    <string name="app_name">Heritage Yogya</string>
+
+    <array name="image_sport">
+        <item>@drawable/keraton</item>
+        <item>@drawable/monjali</item>
+        <item>@drawable/prambanan</item>
+        <item>@drawable/prambanan2</item>
+        <item>@drawable/mboko</item>
+        <item>@drawable/candijo</item>
+        <item>@drawable/tugu</item>
+        <item>@drawable/makamraja</item>
+        <item>@drawable/tamansari</item>
+        <item>@drawable/museum</item>
+        <item>@drawable/vandenburg</item>
+    </array>
+
+    <string name="text_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+        vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien
+        odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat
+        tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula. Maecenas volutpat,
+        massa sit amet aliquam eleifend, massa lorem tempor sapien, eget finibus massa dolor
+        molestie lorem. Suspendisse at purus mauris. Proin nibh ligula, suscipit vel pharetra
+        posuere, bibendum id lorem.</string>
+
+    <string-array name="sports_titles">
+        <item>Keraton</item>
+        <item>Monjali</item>
+        <item>Prambanan</item>
+        <item>Prambanan</item>
+        <item>Mboko</item>
+        <item>Candiijo</item>
+        <item>Tugu</item>
+        <item>Makamrajar</item>
+        <item>Tamansari</item>
+        <item>Museum</item>
+        <item>Vandenburg</item>
+    </string-array>
+
+    <string name="yogya">"D3 SISTEM INFORMASI"
+    "\n\n"
+    "UNIVERSITAS TEKNOLOGI YOGYAKARTA"</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Wisata</string>
+    <string name="nma_wisata">Nama Wisata :
+        \n\n
+    Tempat Wisata :
+        \n\n
+        Deskrip Wisata :
+    </string>
+    <string name="title_activity_keraton_yogyakarta">Keraton Yogyakarta</string>
+    <string name="large_text">
+        "Keraton Kasultanan Ngayogyakarta Hadiningrat, atau yang lebih dikenal dengan nama Keraton"
+        "Jogja, merupakan pusat dari museum hidup kebudayaan Jawa yang ada di Daerah Istimewa Yogyakarta."
+        "Tidak hanya menjadi tempat tinggal raja dan keluarganya, Keraton juga menjadi kiblat "
+        "perkembangan budaya Jawa, sekaligus penjaga nyala kebudayaan tersebut."
+        "Secara fisik istana para Sultan Yogyakarta ini memiliki tujuh kompleks inti yaitu Siti"
+        "Hinggil Ler (Balairung Utara), Kamandhungan Ler (Kamandhungan Utara), Sri Manganti, Kedhaton,"
+        "Kamagangan, Kamandhungan Kidul (Kamandhungan Selatan), dan Siti Hinggil Kidul (Balairung Selatan)."
+        "Sebagai lembaga adat yang lengkap dengan pemangku adatnya, nilai-nilai filosofi dan pula mitologi"
+        "sangat kental menyelubungi Keraton Jogja ini.\n\n"
+
+        "Sejarah Keraton\n\n"
+
+        "Keraton Yogyakarta didirikan oleh Sultan Hamengku Buwono I beberapa bulan pasca perjanjian"
+        "Giyanti pada tahun 1755. Lokasi keraton konon adalah bekas sebuah pesanggarahan yang bernama"
+        "Garjitawati. Pesanggrahan ini digunakan untuk istirahat iring-iringan jenazah raja-raja "
+        "Mataram yang akan dimakamkan di Imogiri. Versi lain menyebutkan lokasi keraton merupakan"
+        "sebuah mata air, Umbul Pacethokan, yang ada di tengah hutan Beringan. Sebelum menempati"
+        "Keraton Jogjakarta, Sultan Hamengku Buwono I berdiam di Pesanggrahan Ambar Ketawang yang"
+        "sekarang termasuk wilayah Kecamatan Gamping, Kabupaten Sleman. Lokasi Keraton Jogjakarta"
+        "berada di antara Sungai Code di sebelah timur dan Sungai Winongo di sebelah barat serta"
+        "Panggung Krapyak di sebelah selatan dan Tugu Jogja di sebelah utara. Lokasi ini juga berada"
+        "dalam satu garis imajiner Laut Selatan dan Gunung Merapi.\n\n"
+
+        "Gaya Arsitektur\n\n"
+
+        "Secara umum tiap kompleks Keraton Yogyakarta di tutupi oleh pasir yang di datangkan langsung"
+        "dari pantai selatan, bangunan utama yang berdampingan, dan kadang ada pohon tertentu."
+        "Kompleks Keraton Yogyakarta ini antara kompleks satu dengan kompleks lainnya biasanya di"
+        "pisahkan dengan tembok yang cukup tinggi dan lebih sering di sebut dengan kata Regol."
+        "Gaya arsitektur Keraton Yogyakarta ini adalah gaya arsitektur Jawa Tradisonal.
+        "Dan di beberapa bagian tertentu terlihat semacam sentuhan dari budaya asing seperi portugis,"
+        "belanda, bahkan cina. Bangunan di Keraton Yogyakarta biasanya berbentuk Joglo tanpa dinding"
+        "yang menggunakan atap trapesium yang bahannya terbuat dari sirap, genting tanah maupun seng"
+        "yang biasanya berwarna merah atau kelabu.\n\n"
+
+
+    </string>
+    <string name="tamansari">
+        "Istana Air Taman Sari adalah suatu kompleks istana yang sebenarnya terdiri dari beberapa"
+        "bangunan (tidak semua bangunan ini berada di dalam air) dan lokasinya masih di dalam lingkungan"
+        "Keraton Ngayogyakarta."
+        "Taman sari yang berarti taman yang indah ini adalah sebuah taman air sekaligus tempat"
+        "peristirahatan bagi Sultan dan keluarganya. Selain sebagai tempat peristirahatan, Tamansari"
+        "dulunya juga merupakan tempat persembunyian bagi keluarga kerajaan ketika mendapat serangan"
+        "dari pihak musuh."
+        "Siap-siap tersibukkan dengan kamera anda karena bangunan Istana Air Taman Sari ini sangat"
+        "mengundang minat kita untuk mengabadikannya dalam bingkai foto.\n\n"
+
+        "Tempat Pemandian Raja\n\n"
+
+        "Istana Taman Sari ini terletak di sebelah barat Kraton Yogyakarta. Taman Sari dikenal sebagai"
+        "tempat pemandian putri raja pada jaman dahulu juga digunakan sebagai benteng pertahanan serta"
+        "tempat ibadah. Banyak wisatawan yang berkunjung dan terkagum-kagum dengan keindahan aristektur"
+        "bangunan didalamnya. Taman Sari memang terkenal indah dan merupakan lokasi yang bagus untuk"
+        "mengabadikan gambar. Selain sebagai tempat pemandian bagi para raja dengan berserta permaisuri"
+        "dan selir selirnya, taman sari juga berfungsi sebagai tempat pusat pemerintahan kedua setelah"
+        "keraton untuk menyusun strategi dan pelatihan militer kepada abdi keraton. Arsitektur didesain"
+        "gelamor yang begitu mewah dengan perpaduan corak agama dan kebudayaan dari berbagai negara."
+        "Pembangunan kompleks ini juga mempertimbangkan tata letak, yakni dipercaya berdirinya taman "
+        "sari akan membentuk sebuah garis lurus yang menghubungkan gunung merapi dan pantai parangtritis."
+        "Dua lokasi ini merupakan simbol penting bagi keraton yakni memiliki fungsi sebagai penyeimbang"
+        "dan memberi keharmonisan, atau  melambangkan elemen dari api sebagai gunung merapi dan air"
+        "sebagai pantai parangtritis.  Kompleks taman sari sendiri telah merentang zaman lebih dari"
+        "2,5 abad. Tepatnya pertama kali dibangun pada masa pemerintahan Sultan Hamengku Buwana pertama "
+        "dan membutuhkan dua kali masa transisi untuk menyelesaikan kompleks taman sari ini.\n\n"
+
+        "Gaya Arsitektur\n\n"
+
+        "Lokasi dari taman sari sendiri berada pada jalan taman, kraton, yang mana berada 1 hingga "
+        "2 km arah barah alun alun selantan yogyakarta, perjalanan wisatawan dapat menggunakan moda"
+        "transportasi seperti becak dengan harga 5 Ribu rupiah, atau berjalan kaki karen jarangnya "
+        "cukup dekat. Istana pemandian sendiri teridiri dari beberapa bangunan yang masing masing "
+        "memiliki fungsi berbeda, lokasi dari tempat bangunan pertama adalah 2 pintu gerbang kokoh"
+        "berdiri megah, yang bernama gapuro agung dan gapuro panggung, salah satu arsitektur yang"
+        "menarik untuk dilihat adalah di gapuro agung yang berlokasi di pintu barat, fisik gapura"
+        "sendiri memiliki perkiraan ketinggian hingga 5 meter dan dipercantik dengan ukiran pada "
+        "seluruh dinding luar gapura.\n"
+
+        "Selanjutnya pada kolam pemandian yang dikelilingi tembok setinggi 2 hingga 3 meter."
+        "Di lokasi ini terdapat dua kolam pemandian yang mempunyai 10 air pancur dan 4 tangga"
+        "setapak menuju dasar kolam. Di tepian kolam berjajar rapi vas bunga yang mempercantik"
+        "tata ruang dikiri maupun kanan. Tempat pemandian inilah dahulu yang di gunakan oleh raja"
+        "dan berserta keluarga sebagai tempat mereka beristirahat. Lokasi dimana para selir selir"
+        "mementaskan tarian keraton yang disaksikan oleh sultan. Lazimnya sultan akan melihat para"
+        "selirnya dari bangunan tertinggi dimana merupakan bagian dari kolam pemandian ini."
+        "Struktur bangunan nampak menyerupai menara yang terdiri dari dua lantai pada masing masing "
+        "sisi memiliki sebuah jendela. Dari atas akan terlihat jelas keindahan dari bagian bagian"
+        "sudut bangunan taman sari dimana memiliki corak bangunan yang sangat berbeda.\n"
+
+        "Setiap hari sekitar 100 hingga 200 wiatawan lokal maupun asing berkujung kesini untuk melihat"
+        "sendiri betapa megahnya pemandian bekas para putri raja jaman dulu tersebut. Taman Sari "
+        "menjadi salah satu tempat tujuan wisata yang patut anda kunjungi ketika sedang berada di"
+        "Yogyakarta. Keindahan arsitektur yang khas akan memanjakan mata anda.\n\n"
+    </string>
+
+    <string name="candi_prambanan">
+        "Candi Prambanan, atau Candi Rara Jonggrang adalah mahakarya kebudayaan Hindu dari abad ke 9."
+        "Mengunjungi candi ini, Anda akan menikmati keindahan candi termegah di Asia Tenggara yang"
+        "menjadi daya tarik kunjungan wisatawan dari seluruh dunia."
+
+        "Prambanan adalah candi Hindu terbesar dan termegah yang pernah dibangun di Jawa kuno,"
+        "pembangunan candi Hindu kerajaan ini dimulai oleh Rakai Pikatan sebagai tandingan candi Buddha"
+        "Borobudur dan juga candi Sewu yang terletak tak jauh dari Prambanan. Beberapa sejarawan lama"
+        "menduga bahwa pembangunan candi agung Hindu ini untuk menandai kembali berkuasanya keluarga Sanjaya"
+        "atas Jawa, hal ini terkait teori wangsa kembar berbeda keyakinan yang saling bersaing; yaitu"
+        "wangsa Sanjaya penganut Hindu dan wangsa Sailendra penganut Buddha. Pastinya, dengan dibangunnya"
+        "candi ini menandai bahwa Hinduisme aliran Saiwa kembali mendapat dukungan keluarga kerajaan, setelah"
+        "sebelumnya wangsa Sailendra cenderung lebih mendukung Buddha aliran Mahayana. Hal ini menandai"
+        "bahwa kerajaan Medang beralih fokus dukungan keagamaanya, dari Buddha Mahayana ke pemujaan terhadap Siwa."
+
+        "Bangunan ini pertama kali dibangun sekitar tahun 850 Masehi oleh Rakai Pikatan dan secara"
+        "berkelanjutan disempurnakan dan diperluas oleh Raja Lokapala dan raja Balitung Maha Sambu."
+        "Berdasarkan prasasti Siwagrha berangka tahun 856 M, bangunan suci ini dibangun untuk"
+        "memuliakan dewa Siwa, dan nama asli bangunan ini dalam bahasa Sanskerta adalah Siwagrha"
+        "(Sanskerta:Shiva-grha yang berarti: 'Rumah Siwa') atau Siwalaya (Sanskerta:Shiva-laya yang"
+        "berarti: 'Ranah Siwa' atau 'Alam Siwa'). Dalam prasasti ini disebutkan bahwa saat pembangunan"
+        "candi Siwagrha tengah berlangsung, dilakukan juga pekerjaan umum perubahan tata air untuk"
+        "memindahkan aliran sungai di dekat candi ini. Sungai yang dimaksud adalah sungai Opak yang"
+        "mengalir dari utara ke selatan sepanjang sisi barat kompleks candi Prambanan. Sejarawan menduga"
+        "bahwa aslinya aliran sungai ini berbelok melengkung ke arah timur, dan dianggap terlalu dekat"
+        "dengan candi sehingga erosi sungai dapat membahayakan konstruksi candi. Proyek tata air"
+        "ini dilakukan dengan membuat sodetan sungai baru yang memotong lengkung sungai dengan poros"
+        "utara-selatan sepanjang dinding barat di luar kompleks candi. Bekas aliran sungai asli kemudian"
+        "ditimbun untuk memberikan lahan yang lebih luas bagi pembangunan deretan candi perwara"
+        "(candi pengawal atau candi pendamping)."
+
+        "Beberapa arkeolog berpendapat bahwa arca Siwa di garbhagriha (ruang utama) dalam candi Siwa"
+        "sebagai candi utama merupakan arca perwujudan raja Balitung, sebagai arca pedharmaan anumerta dia."
+
+        "Kompleks bangunan ini secara berkala terus disempurnakan oleh raja-raja Medang Mataram"
+        "berikutnya, seperti raja Daksa dan Tulodong, dan diperluas dengan membangun ratusan"
+        "candi-candi tambahan di sekitar candi utama. Karena kemegahan candi ini, candi Prambanan"
+        "berfungsi sebagai candi agung Kerajaan Mataram, tempat digelarnya berbagai upacara penting kerajaan."
+        "Pada masa puncak kejayaannya, sejarawan menduga bahwa ratusan pendeta brahmana dan murid-muridnya"
+        "berkumpul dan menghuni pelataran luar candi ini untuk mempelajari kitab Weda dan melaksanakan"
+        "berbagai ritual dan upacara Hindu. Sementara pusat kerajaan atau keraton kerajaan Mataram"
+        "diduga terletak di suatu tempat di dekat Prambanan di Dataran Kewu."
+
+    </string>
+
+    <string name="candi_ijo">
+        "Candi Ijo candi Hindu yang terletak di Bukit Ijo, tidak jauh dari Istana Ratu Boko,"
+        "sekitar 18 km di sebelah timur kota Jogja. Candi Ijo ini dibangun pada abad ke-9, di jaman"
+        "Kerajaan Mataram Kuno."
+
+        "Candi Ijo terletak di Dukuh Groyokan, Desa Sambirejo, Kecamatan Prambanan, Kabupaten Sleman,"
+        "Yogyakarta. Candi ini berada lereng barat sebuah bukit yang masih merupakan bagian perbukitan"
+        "Batur Agung, kira-kira sekitar 4 kilometer arah tenggara Candi Ratu Boko. Dimana pada bagian"
+        "bawah lereng tersebut terdapat wisata tebing Breksi Jogja yang merupakan bekas pertambangan"
+        "batu alam. Posisinya berada pada lereng bukit dengan ketinggian rata-rata 425 meter di atas"
+        "permukaan laut. Candi ini dinamakan "Ijo" karena berada di atas bukit yang disebut Gumuk Ijo."
+        "Kompleks percandian membuka ke arah barat dengan panorama indah, berupa persawahan dan bentang alam,"
+        "seperti Bandara Adisucipto dan pantai Parangtritis."
+
+        "Dataran tempat kompleks utama candi memiliki luas sekitar 0,8 hektare, namun kuat dugaan bahwa"
+        "kompleks percandian Ijo jauh lebih luas, dan menjorok ke barat dan utara. Dugaan itu"
+        "didasarkan pada kenyataan bahwa ketika lereng bukit Candi Ijo di sebelah timur dan sebelah utara"
+        "ditambang oleh penduduk, banyak ditemukan artefak yang mempunyai kaitan dengan candi."
+
+        "Karena letaknya yg tinggi, pemandangan alam dari Candi Ijo ini sangat indah. Sangat cocok"
+        "untuk pecinta fotografi yang ingin berburu pemandangan matahari terbenam."
+    </string>
+
+    <string name="candi_boko">
+        "Istana Ratu Boko adalah candi megah di dekat Candi Prambanan. Istana yang awalnya bernama"
+        "Abhayagiri Vihara (berarti biara di bukit yang penuh kedamaian) ini didirikan untuk tempat"
+        "menyepi dan memfokuskan diri pada kehidupan spiritual. Istana ini terletak di 196 meter"
+        "di atas permukaan laut. Berada di istana ini, anda bisa merasakan kedamaian sekaligus"
+        "melihat pemandangan kota Yogyakarta dan Candi Prambanan dengan latar Gunung Merapi.\n\n"
+
+        "Sejarah\n\n"
+        "Candi Ratu Boko dibangun pada masa pemerintahan Rakai Panangkaran yang merupakan salah"
+        "satu keturunan Wangsa Syailendra."
+        "Candi yang  berada di 196 meter di atas permukaan air laut ini pertama kali ditemukan"
+        "pada tahun 1790 oleh Van Boeckhlotz. Meski sudah ditemukan, namun baru seratus tahun kemudian"
+        "dilakukan penelitian serius terhadap candi ini. Candi ini kemudian dipublikasikan dalam"
+        "buku Keraton van Ratoe Boko.\n\n"
+
+        "Keistemawaan Candi\n\n"
+        "Candi yang terletak sekitar 17 kilometer sebelah timur Kota Yogyakarta ini memiliki"
+        "keistimewaan-keistimewaan yang tidak dimiliki oleh candi-candi-candi lain di Yogyakarta dan"
+        "Jawa tengah. Jika candi-candi Yogyakarta dan Jawa Tengah pada umumnya hanya diperuntukkan"
+        "sebagai temapat ibadah, Candi ratu Boko memiliki sifat profan yang ditunjukkan dengan"
+        "keberadaan keputren dan paseban."
+
+        "Keistimewaan lain, di Candi Ratu Boko ini tampak perpaduan kebudayaan Hindu dan Budha."
+        "Hal ini tampak dari keberadaan patung Lingga dan Yoni, Arca Ganesha, serta lempengan emas"
+        "yang bertuliskan Om Rudra ya namah swaha. Dari lempengan emas tersebut, tersirat suatu bentuk"
+        "pemujaan terhadap Dewa Rudra, atau yang lebih dikenal dengan sebutan Dewa Siwa. Hal ini"
+        "menunjukkan bahwa Rakai Penangkaran sang pendiri candi yang beragama Budha mempunyai"
+        "toleransi tinggi terhadap warganya yang beragama hindu."
+
+        "Jika Anda berjalan-jalan di salah satu bagian candi, tepatnya di Plaza Andrawina,"
+        "dan Anda menghadap penghujung maka akan tampak pemandangan cantik Kota Yogyakarta dan Candi Prambanan"
+        "dengan Gunung Merapi sebagai backgroundnya."
+    </string>
+
+    <string name="museum_sentalu">
+        "Museum Ullen Sentalu adalah museum terbaik yang dimiliki oleh Yogyakarta. Museum seni"
+        "dan budaya jawa yang memiliki keindahan ruang dan properti serta daya magis yang luar biasa"
+        "memikat ini bercerita banyak tentang 4 keraton di Solo dan Yogyakarta; Kasunanan dan"
+        "Istana Mangkunegaran Surakarta, Kasultanan Ngayogyakarta Hadiningrat dan Puro Pakualaman Yogyakarta."
+
+        "Museum Ullen Sentalu, terletak di daerah Pakem, Kaliurang, Kabupaten Sleman, adalah museum"
+        "yang menampilkan budaya dan kehidupan para bangsawan Dinasti Mataram (Kasunanan Surakarta,"
+        "Kesultanan Yogyakarta, Praja Mangkunegaran, dan Kadipaten Pakualaman) beserta koleksi"
+        "bermacam-macam batik (baik gaya Yogyakarta maupun Surakarta)."
+
+        "Museum ini juga menampilkan tokoh raja-raja beserta permaisurinya dengan berbagai macam pakaian"
+        "yang dikenakan sehari-harinya."
+
+        "Nama Ullen Sentalu merupakan singkatan dari bahasa Jawa: “ULating bLENcong SEjatiNe TAtaraning LUmaku” yang"
+        "artinya adalah “Nyala lampu blencong merupakan petunjuk manusia dalam melangkah dan meniti kehidupan”."
+        "Filsafah ini diambil dari sebuah lampu minyak yang dipergunakan dalam pertunjukkan"
+        "wayang kulit (blencong) yang merupakan cahaya yang selalu bergerak untuk mengarahkan dan"
+        "menerangi perjalanan hidup kita. Museum ini didirikan oleh salah seorang bangsawan Yogyakarta"
+        "yang dikenal sangat dekat dengan keluarga keraton Surakarta dan Yogyakarta."
+
+        "Di Museum Ullen Sentalu, dapat diketahui bagaimana para leluhur Jawa membuat batik yang memiliki"
+        "arti dan makna yang mendalam di dalam setiap coraknya. Ada juga berbagai sejarah mengenai keadaan"
+        "budaya Jawa kuno dengan segala aturannya. Keadaan museum yang dibangun dengan baik, mampu membuat"
+        "pengunjung seperti terserap ke masa Jawa kuno yang mengagumkan."
+
+        "Di Museum Ullen Sentalu ini kita juga dapat mengetahui bagaimana para leluhur Jawa membuat"
+        "batik yang memiliki arti dan makna mendalam di tiap coraknya. Guide yang ada di Ullen Sentalu"
+        "ini akan menceritakan tentang semua sejarah dan filosofi dengan gaya yang sangat menghibur."
+    </string>
+
+    <string name="benteng_vandenburg">
+        "Salah satu tempat wisata di Jogja yang paling populer dan memiliki nilai sejarah adalah"
+        "Museum Benteng Vredeburg - Wisata Sejarah di Pusat Kota Jogja. Wisata Jogja yang satu ini"
+        "sudah tidak asing lagi untuk setiap pengunjung Malioboro, karena memang lokasinya berada"
+        "di pusat kota Jogja tepatnya di Jalan Jenderal A. Yani No. 6 Yogyakarta. Jadi jika Anda"
+        "sedang menikmati Wisata Belanja di Malioboro Yogyakarta, maka jika Anda berjalan sedikit"
+        "ke arah selatan menuju titik 0 km Anda akan melihat Museum Benteng Vredeburg yang berada di timur jalan ini."
+
+        "Benteng Vredeburg Jogja ini berbentuk bujur sangkar dan memiliki 4 bastion di setiap sudutnya"
+        "yaitu: Jayaprayitna di sudut tenggara, Jayapurusa di sudut timur laut, Jayawisesa di sudut barat laut,"
+        "dan Jayaprakosaning di sudut barat daya. Selain itu di Museum Benteng Vredeburg terdapat"
+        "museum di mana kita bisa belajar tentang sejarah Indonesia dalam bentuk diorama yang menarik."
+        "Tentu dengan adanya Diorama Benteng Vredeburg ini Anda bisa lebih mudah dan bisa merasakan suasana"
+        "di waktu itu. Disini juga terdapat gambar-gambar dan dan juga benda-benda peninggalan"
+        "zaman penjajahan dulu. Yang menarik lagi adalah, jika Anda ingin berkeliling Museum Benteng Vredeburg"
+        "namun tidak ingin capek berjalan kaki, Anda bisa menyewa sepeda onthel yang hanya bertarif  Rp.5000,- saja."
+
+        "Sedikit sejarah Benteng Vredeburg, bangunan ini didirikan pada tahun 1765 oleh Pemerintah"
+        "Belanda dan digunakan untuk menahan serangan dari Kraton Yogyakarta. Dengan parit yang mengelilinginya,"
+        "benteng yang berbentuk segi empat ini memiliki menara pengawas di setiap sudutnya dan kubu"
+        "yang memungkinkan tentara Belanda untuk berjalan berkeliling sambil berjaga-jaga dan"
+        "melepaskan tembakan jika diperlukan. Sebelumnya benteng ini bernama "Benteng Rustenburg"yang"
+        "berarti "Benteng Peristirahatan" dan dibangun oleh Belanda pada tahun 1760 di atas tanah"
+        "Keraton dengan izin Sri Sultan Hamengku Buwono I. Kemudian sekitar tahun 1765 - 1788 bangunan"
+        "disempurnakan dan selanjutnya diganti namanya menjadi "Benteng Vredeburg" yang mempunyai"
+        "arti "Benteng Perdamaian" sampai dengan saat sekarang ini. Dari segi fungsi sendiri Benteng"
+        "Vredeburg memiliki beberapa perubahan yaitu: pada tahun 1760 - 1830 berfungsi sebagai"
+        "benteng pertahanan, kemudian pada tahun 1830 -1945 berfungsi sebagai markas militer Belanda"
+        "dan Jepang, dan pada tahun 1945 - 1977 berfungsi sebagai markas militer RI."
+
+        "Untuk jam buka di Wisata Jogja yang satu ini dihari Selasa - Jumat: 08.00 - 16.00 WIB,"
+        "dan hari Sabtu - Minggu: 08.00 - 17.00 WIB, sedangkan di hari Senin dan hari libur nasional"
+        "akan tutup. Untuk tiket masuk juga terbilang sangat murah yaitu 2000 untuk dewasa dan 1000 untuk anak."
+        "Dan untuk fasilitas di lokasi wisata sejarah ini adalah: Perpustakaan, Ruang Pertunjukan,"
+        "Ruang Seminar, Diskusi, Pelatihan dan Pertemuan, Audio Visual Ruang Belajar Kelompok,"
+        "Hotspot gratis, Pemandu, Ruang Tamu , Mushola , Kamar mandi. Cukup lengkap bukan? Jadi"
+        "jika Anda sedang ke Jogja dan mengunjungi pusat kota di Maliobor, jangan lupa untuk mampir"
+        "ke Museum Benteng Vredeburg - Wisata Sejarah di Pusat Kota Jogja."
+    </string>
+
+    <string name="tugu_jogja">
+        "Anda tidak akan pernah merasa lengkap berlibur ke Jogja jika belum datang ke tempat ini."
+        "Tugu Jogja dibangun oleh Sri Sultan Hamengkubuwono I pada tahun 1755. Pada awalnya, tugu ini"
+        "berbentuk Golong-Gilig dan mempunyai tinggi mencapai 25 meter, tiang dari tugu berbentuk"
+        "Gilig (silinder) dan puncaknya berbentuk Golong (bulat), sehingga pada masa itu tugu ini"
+        "disebut dengan nama Tugu Golong-Gilig."
+
+        "Mempunyai makna Manunggaling Kawula Gusti yang menggambarkan semangat persatuan antara rakyat"
+        "dan penguasa dalam melawan penjajah. Namun di sisi lain juga bisa bermakna sebagai hubungan"
+        "antara manusia dengan Sang Pencipta. Gempa hebat terjadi di kota Yogyakarta pada tanggal 10 Juni 1867"
+        "mengakibatkan runtuhnya bangunan Tugu Golong-Gilig. Kemudian pada tahun 1889 oleh pemerintah"
+        "Belanda Opzichter van Waterstaat atau Kepala Dinas Pekerjaan Umum, JWS van Brussel di bawah pengawasan"
+        "Pepatih Dalem Kanjeng Raden Adipati Danurejo V melakukan renovasi pada bangunan tugu ini."
+
+        "Dan hasilnya tugu dibangun dengan bentuk persegi dimana puncaknya tidak lagi bulat melainkan"
+        "berbentuk kerucut runcing dengan tinggi bangunan 15 meter. Tiap sisi bangunan tugu juga dihiasi"
+        "semacam prasasti yang menunjukkan siapa saja yang terlibat dalam proses renovasi tersebut."
+        "Tugu ini kemudian diresmikan oleh Sri Sultan Hamengkubuwono VII pada tanggal 3 Oktober 1889."
+        "Sejak saat itu, tugu ini disebut dengan nama De Witt Paal atau Tugu Putih."
+
+        "Seiring berganti zaman Tugu Putih atau sekarang lebih dikenal dengan Tugu Jogja ini semakin"
+        "dipercantik demikian pula dengan lokasi di sekelilingnya seperti yang akan Anda lihat atau"
+        "taman-taman kecil sebagi penghias sekeliling tugu. Disini setiap malam tidak akan pernah sepi"
+        "oleh pengunjung yang ingin mengabadikan foto di samping tugu. Bahkan ada yang belum puas jika"
+        "belum pernah menyentuh Tugu Jogja."
+    </string>
+
+    <string name="monjali">
+        "Monumen Jogja Kembali atau Yogya Kembali dibangun untuk mengenang sejarah ditariknya tentara"
+        "pendudukan Belanda dari ibukota RI Yogyakarta pada waktu itu, tanggal 29 Juni 1949. Hal ini"
+        "merupakan tanda awal bebasnya bangsa Indonesia dari kekuasaan pemerintahan Belanda. Dibangun"
+        "pada tanggal 29 Juni 1985 dengan upacara tradisional penanaman kepala kerbau dan peletakan batu"
+        "pertama oleh Sri Sultan Hamengkubuwono IX dan Sri Paduka Paku Alam VIII."
+
+        "Yang memiliki gagasan dirikannya Monumen Jogja Kembali adalah kolonel Soegiarto, selaku walikotamadya"
+        "Yogyakarta pada tahun 1983. Di tempat Wisata Sejarah yang satu ini kita akan lebih mengenal sejarah"
+        "dan suasana di waktu itu, karena di dalam monumen terdapat berbagai peninggalan sejarah, senjata, patung replika"
+        "dengan interior ruang seperti pada waktu sejarah dulu dan juga lengkap dengan alur ceritanya.\n\n"
+
+        "Lokasi Monumen Jogja Kembali"
+        "Monumen Jogja Kembali berada di Dusun Jongkang, Sariharjo, Sleman, Daerah Istimewa Yogyakarta 55284, Indonesia."
+
+        "Sebelum kita memasuki Monumen Jogja Kembali, di depan pintu masuk kita akan menjumpai sebuah"
+        "bangunan tembok besar yang disitu dituliskan sejumlah 422 nama pahlawan yang gugur di daerah"
+        "Wehrkreise III (RIS) antara tanggal 19 Desember 1948 sampai dengan 29 Juni 1949. Monumen Jogja Kembali"
+        "terdiri dari 3 lantai. Di lantai 1 terdapat beberapa ruang"
+        "diantaranya: R. Pengelola, R. Museum, R. Perpustakaan, R. Serbaguna, Mushola dan Toilet."
+        "Di Lantai 2 kita akan menjumpai relief yang ada di sekitar tembok luar sekeliling museum dan"
+        "setelah kita masuk akan menjumpai Ruang Diorama yang akan terdapat replika / patung pahlawan-pahlawan"
+        "semasa perang. Dan terakhir adalah lantai 3 yaitu Ruang Garbha Graha yang difungsikan untuk meditasi"
+        "dan mendoakan arwah pahlawan-pahlawan yang telah gugur."
+
+        "Ketika kita memasuki ruang lantai 1, di ruang depan kita akan menjumpai Dokar, Meriam, dan"
+        "foto-foto yang ditempel di dinding depan. Dokar ini dinamakan Dokar Tentara Pelajar. Yang"
+        "digunakan selama Agresi Militer II, tahun 1948-1949 sebagai sarana angkutan persenjataan dan"
+        "perlengkapan kesehatan maupun logistik pada waktu itu."
+    </string>
+
+    <string name="makam_raja">
+        "Ketika Sinuhun Hanyokrowati (Sinuhun Sedo Krapyak) meninggal, maka puteranya Kanjeng Gusti"
+        "Pangeran Adipati Anom pada waktu sedo itu sedang pergi tirakat ke pegunungan Selatan. Sehingga"
+        "sebagai wakil pemegang pemerintahan ialah Gusti Pangeran Martopuro. Sesudah setahun lamanya"
+        "ia bertirakat, maka ia pulang dari pegunungan tersebut sebab sudah sedikit lama dicari-cari"
+        "oleh penghulu Katangan, tapi sebelum menjadi penghulu. Pada tahun 1627, ia masuk ke kerajaan"
+        "dan pemegang kekuasaan Mataram saat itu ialah Prabu Hanyokrokusumo."
+
+        "Sesudah itu Pangeran Martopuro pergi meninggalkan kerajaan menuju Ponorogo. Atas permintaan"
+        "rakyat maka wakil dari Pangeran Adipati Anom, yaitu Pangeran Purboyo memerintahkan penghulu"
+        "Ketegan untuk mencari Pangeran Adipati Anom."
+
+        "Akhirnya terdapatlah Pangeran Adipati Anom sedang bertapa di Gunung Kidul,"
+        "kemudian ia dibawa pulang ke kerajaan."
+
+        "Sesudah itu, Pangeran Adipati Anom diangkat menjadi Raja Kerajaan Mataram. Ia adalah raja yang"
+        "cerdik dan pandai sehingga rakyatnya maupun makhluk halus serta jin takluk dan tunduk atas"
+        "kekuasaannya dan Negeri Mataram terkenal sebagai pelindung penyakit."
+
+        "Karena bijaksananya, maka setiap hari Jumat, ia dapat pergi sujud ke Mekkah dengan secepat kilat."
+        "Sesudah 5 tahun ia memerintah, kerajaannya dipindahkan ke Kerta-Plered dan selanjutnya Kanjeng Sultan"
+        "ingin memulai membuat makam di Pegunungan Girilaya yang terletak di sebelah Timur Laut Imogiri"
+        "yang dipergunakan sebagai makam raja. Tetapi sebelum makam itu selesai, pamannya yaitu "
+        "Gusti Pangeran Juminah lebih dulu mengajukan permintaan. Kemudian Sinuhun merasa kecewa."
+
+        "Tidak lama kemudian, pamannya meninggal seketika. Sesudah pamannya meninggal, Kanjeng Sultan Agung"
+        "melemparkan pasir yang berasal dari Mekkah yang akhirnya pasir tersebut jatuh di Pegunungan Merak"
+        "dan seterusnya Sinuhun segera membuat makam raja di pegunungan yang besar dan tinggi tersebut."
+
+    </string>
+
+    <string name="title_activity_keraton_yogya">Keraton Yogyakarta</string>
+    <string name="title_acativity_taman_sari">Taman Sari</string>>
+    <string name="title_Activity_candi_prambanan">Candi Prambanan</string>
+    <string name="title_activity_candi_ijo">Candi Ijo</string>
+    <string name="title_activity_istana_ratu_boko">Istana Ratu Boko</string>
+    <string name="title_activity_museum_sentalu">Museum Sentalu</string>
+    <string name="title_activity_benteng_vandenburg">Benteng Vandenburg</string>
+    <string name="title_activity_tugu_jogja">Tugu Jogja</string>
+    <string name="title_activity_monumen_jogja_kembali">Monumen Jogja Kembali</string>
+    <string name="title_activity_makam_raja">Makam Raja</string>
+    <string name="title_activity_listview_main">listview_main</string>
+    <string name="title_activity_detail_gallery">Gallery</string>
+</resources>
